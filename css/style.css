@@ -16,12 +16,10 @@ a,button{
     font-size: 12px;
 }
 /* container margins  */
-.top-banner, .customer-experience,.business-partners,.at-a-glance{
+.top-banner, .customer-experience,.business-partners,.at-a-glance,.services{
     margin-bottom: 150px;
 }
-.business-partners{
-    background-color:#fce0ef6e;
-}
+
 
 
 /* header styles */
@@ -49,6 +47,7 @@ a,button{
     padding: 10px 20px;
     font-size: 12px;
     letter-spacing: 0.1em;
+    background-color: white;
     color: #ed017f;
 
 }
@@ -67,8 +66,11 @@ a,button{
 .fa-instagram{
     color:#ed017f;
 }
-
-/* third page at a glance section */
+/* third page business partner section  */
+.business-partners{
+    background-color:#fce0ef6e;
+}
+/* fourth page at a glance section */
 
 .btn-readmore{
     border: none;
@@ -77,4 +79,12 @@ a,button{
     font-size: 16px;
     letter-spacing: 0.1em;
     color: #ed017f;
+}
+/* fifth-page Our services  */
+.round-arrow{
+    background-color:#fce0ef;
+    padding: 4px;
+    border-radius: 50%;
+    color: #ed017f;
+
 }
