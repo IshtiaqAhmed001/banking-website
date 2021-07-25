@@ -6,7 +6,15 @@
     font-weight: normal;
     font-style: normal;
 }
-
+h1,h2{
+    color: #343434;
+}
+.intro h1{
+    font-weight: 900;
+    font-size: 63px;
+    color: black;
+    line-height: 68px;
+}
 p{
     font-weight: 400;
     color: #676767;
@@ -16,7 +24,7 @@ a,button{
     font-size: 12px;
 }
 /* container margins  */
-.top-banner, .customer-experience,.business-partners,.at-a-glance,.services{
+.top-banner, .customer-experience,.business-partners,.at-a-glance,.services,.results{
     margin-bottom: 150px;
 }
 
@@ -87,4 +95,11 @@ a,button{
     border-radius: 50%;
     color: #ed017f;
 
+}
+/* sixth-page results  */
+h2{
+    color: #343434;
+}
+.pink-title{
+    color: #ed017f;
 }
