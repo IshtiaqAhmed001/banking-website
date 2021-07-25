@@ -24,7 +24,7 @@ a,button{
     font-size: 12px;
 }
 /* container margins  */
-.top-banner, .customer-experience,.business-partners,.at-a-glance,.services,.results{
+.top-banner, .customer-experience,.business-partners,.at-a-glance,.services,.results,.newsletter{
     margin-bottom: 150px;
 }
 
@@ -96,10 +96,29 @@ a,button{
     color: #ed017f;
 
 }
+.services{
+    background-color:#fce0ef6e;
+    padding: 50px 10;
+}
 /* sixth-page results  */
 h2{
     color: #343434;
 }
 .pink-title{
     color: #ed017f;
+}
+/* seventh page newsletter  */
+.newsletter{
+    background-color:#fce0ef6e;
+    padding: 50px 10px;
+}
+.subscribe-btn{
+    background-color: #ed017f;
+    border-radius: 4px;
+    color: white;
+    border: 1px solid #ed017f ;
+    padding: 8px 20px;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    font-weight:lighter;
 }
