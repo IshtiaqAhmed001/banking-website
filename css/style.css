@@ -125,11 +125,11 @@ h2{
 
 /* footer */
 .footer-grid{
-    /* display: grid;
+    display: grid;
     grid-template-columns: repeat(4,1fr) 0.4fr;
-    grid-column-gap: 5px; */
-    display: flex;
-    flex-wrap: wrap;
+    grid-column-gap: 5px;
+    /* display: flex;
+    flex-wrap: wrap; */
     
 }
 footer ul li{
@@ -139,7 +139,7 @@ footer ul li{
 /* footer media query  */
 
 
- /* @media only screen and (min-width:993px){
+ @media only screen and (min-width:993px){
     .footer-grid{
         grid-template-columns: repeat(4,1fr) 0.4fr;
     }
@@ -156,5 +156,5 @@ footer ul li{
         grid-template-columns:repeat(1,1fr) ;
 
     }
-} */
+}
 
