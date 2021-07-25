@@ -122,3 +122,13 @@ h2{
     letter-spacing: 0.1em;
     font-weight:lighter;
 }
+
+/* footer */
+.footer-grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr) 0.4fr;
+    grid-column-gap: 5px;
+}
+footer ul li{
+    color: #676767;
+}
