@@ -16,7 +16,7 @@ a,button{
     font-size: 12px;
 }
 /* container margins  */
-.top-banner, .customer-experience,.business-partners{
+.top-banner, .customer-experience,.business-partners,.at-a-glance{
     margin-bottom: 150px;
 }
 .business-partners{
@@ -68,6 +68,13 @@ a,button{
     color:#ed017f;
 }
 
-/* second page customer experience section */
+/* third page at a glance section */
 
-
+.btn-readmore{
+    border: none;
+    background-color:white;
+    border-radius: 4px;
+    font-size: 16px;
+    letter-spacing: 0.1em;
+    color: #ed017f;
+}
