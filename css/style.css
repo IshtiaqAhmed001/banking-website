@@ -16,8 +16,11 @@ a,button{
     font-size: 12px;
 }
 /* container margins  */
-.top-banner, .customer-experience{
+.top-banner, .customer-experience,.business-partners{
     margin-bottom: 150px;
+}
+.business-partners{
+    background-color:#fce0ef6e;
 }
 
 
