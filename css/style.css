@@ -16,11 +16,10 @@ a,button{
 }
 
 /* header */
-header{
+.top-image{
     background-image: url(../images/top-bg.png);
-    background-position: right;
     background-repeat: no-repeat;
-    height: 100%;
+    background-size: cover;
 }
 .btn-pink{
     background-color: #ed017f;
