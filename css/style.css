@@ -6,6 +6,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
 p{
     font-weight: 400;
     color: #676767;
@@ -14,8 +15,13 @@ a,button{
     font-weight: 600;
     font-size: 12px;
 }
+/* container margins  */
+.top-banner{
+    margin-bottom: 150px;
+}
 
-/* header */
+
+/* header styles */
 .top-image{
     background-image: url(../images/top-bg.png);
     background-repeat: no-repeat;
@@ -59,5 +65,6 @@ a,button{
     color:#ed017f;
 }
 
+/* second page customer experience section */
 
 
